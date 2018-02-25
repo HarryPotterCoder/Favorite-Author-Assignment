@@ -1,0 +1,22 @@
+.margin-top15 {
+  margin-top: 15px;
+}
+
+.margin-bottom15 {
+  margin-bottom: 15px;
+}
+
+.margin-right15 {
+  margin-right: 15px;
+}
+
+.border-red {
+  border: 1px solid green;
+}
+
+@media (max-width: 575px) {
+  .content-box {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
